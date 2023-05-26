@@ -16,7 +16,7 @@ x0 = 0;
 y0 = 1;
 
 % Define the step size
-h = 0.01;
+h = 0.01; % Edit this value to see the different between Range-Kutta and the correct solution better
 
 % Define the range of x values
 x = x0:h:1;
